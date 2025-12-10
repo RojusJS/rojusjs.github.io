@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RojusJS</title>
+    <link>https://rojusjs.github.io/</link>
+    <description>Recent content on RojusJS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 20:56:03 +0200</lastBuildDate>
+    <atom:link href="https://rojusjs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RojusJS new page 1</title>
+      <link>https://rojusjs.github.io/posts/newpage1/</link>
+      <pubDate>Wed, 10 Dec 2025 20:56:03 +0200</pubDate>
+      <guid>https://rojusjs.github.io/posts/newpage1/</guid>
+      <description>&lt;p&gt;Debesijos pirmas namų darbas. Atliekama užduotis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
